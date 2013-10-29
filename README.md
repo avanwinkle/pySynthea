@@ -1,4 +1,4 @@
-SYNTHEA README
+SYNTHEA Soundboard
 ==============
 
 Short for SYNthetic THEater Audio, Synthea is a customizable soundboard program designed for dynamic playback of 
@@ -21,8 +21,8 @@ randomized; hotkeys can be bound, and much more. Key features include:
 Synthea is currently supported in Windows and OSX. It has not been tested in Linux, but there's no reason it wouldn't work.
 It requires Python, wxPython, and Pygame.
 
-=============
-HOW IT WORKS
+
+How Synthea Works
 =============
 
 Synthea uses project subfolders to offer a list of projects. Each project folder contains configuration files and audio files as described below:
@@ -46,6 +46,19 @@ in such cases, a random file will be selected each time the button is queued. Bu
 
 Finally, each project has an optional Hotkeys file, where global keyboard events can be programmed. These events will override the built-in hotkeys, and are a simple delimited list of keyboard event codes (triggers) and effect button names (actions).
 
+Why Synthea Exists
+===============
+In unscripted theater, a sound board operator needs access to effects and music in ways that 
+scripted theater software cannot accomodate.
+
+As a tech improviser, I once needed the ability to provide realtime, unscripted conversation 
+between performers onstage and an artificial intelligence controlled in the booth, and so SYNTHEA was 
+created as means to seamlessly queue up a wide selection of pre-recorded sentence fragments and play them 
+back sequentially on demand.
+
+SYNTHEA has since expanded to provide customized music and sound effects boards for numerous other 
+unscripted plays and improv performances, and continues to be developed for better and broader functionality.
+It is still in its infancy, but for those willing and able to learn it, I hope it proves a useful tool.
 
 For more information visit www.synthea.org
 
