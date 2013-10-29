@@ -1,0 +1,8 @@
+**LAYOUT**
+name:Sample Board
+type:music
+crossfade:enabled
+fadetime:2
+modes:normal
+default_window:1200x680
+crashnoise:none

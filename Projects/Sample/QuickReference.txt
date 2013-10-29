@@ -1,0 +1,10 @@
+QuickReference File
+----------------------------
+
+  This will appear when the
+  “QuickReference” hotkey is
+  pressed. It’s useful for
+  noting hotkeys that you
+  need to remember!
+
+  …That’s about it.

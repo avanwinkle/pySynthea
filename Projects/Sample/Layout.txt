@@ -1,0 +1,49 @@
+# A basic button
+Salem|The Town|Welcome to Salem|lotm_piecesofastory.ogg|
+# A “NOCACHE” button will not load the file to memory until it’s played
+Salem|The Town|The Village|tc_03_thevillage.ogg|NOCACHE
+# A “BUFFER” button will stream to memory, never storing
+Salem|The Town|The Homestead|ac3_11_homestead.ogg|BUFFER
+# A “LOOP” button will loop forever
+Salem|The Town|Born to Darkness (Strong)|iwtv_02_borntodarkness_01.ogg|LOOP
+# A “LOOPEXT” button will play the specified file as an intro, then loop
+# e.g. intro = iwtv_escape.ogg, loop = iwtv_escape_loop.ogg
+Salem|The Town|Born to Darkness (Soft)|iwtv_escape.ogg|LOOPEXT=_loop
+# Multiple sound files can be specified, one will be chosen at random each playback
+Salem|The Town|Church Choir Hymn|brhm_choir_01.ogg,brhm_choir_02.ogg,brhm_choir_03.ogg|
+# Multiple options can be used together (but not LOOP+BUFFER)
+Salem|Upbeat|Hustle and Bustle|vivaldi_sinfemaj_allegro.ogg|NOCACHE,LOOPEXT=_loop
+Salem|Peaceful|Doing God's Work|tc_15_thebeach.ogg|
+Salem|Peaceful|Friends in Church|brhm_hungarian21_edit.ogg|
+Salem|Peaceful|Daily Chores|tch_ssdmin_allegretto.ogg|
+Salem|Peaceful|A Friendly Day|tch_sypbmin_adagio.ogg|
+Salem|Upbeat|Neighborly Curiousity|brhm_hungarian3_edit.ogg|NOCACHE
+Salem|Upbeat|About Town|brhm_hungarian19.ogg|NOCACHE
+Salem|Upbeat|The Puritan Life|vivaldi_sinfemaj_presto.ogg|NOCACHE
+Salem|Peaceful|Peace and Harmony|tch_sypbmin_andante.ogg|NOCACHE
+Salem|Peaceful|Quiet Reflection|tc_18_forgiveus.ogg|NOCACHE
+Salem|Suspicious|A Town with Secrets|kp_03_syp3_adagio_01.ogg|NOCACHE
+Salem|Suspicious|Neighbors with Suspicions|kp_03_syp3_adagio_02.ogg|NOCACHE
+Salem|Peaceful|A Good Township|hr_03_beforethestorm_01.ogg|NOCACHE
+Salem|Suspicious|Gossip Around Town|ct_08_dropsofblood.ogg|NOCACHE
+Salem|Suspicious|Mercy on Their Souls|tc_10_haleleavesthevillage.ogg|NOCACHE
+Salem|Suspicious|Speak Not|tc_11_takingelizabeth_01.ogg|NOCACHE
+Sarah|Sarah Good|Sarah Good|lotm_cora.ogg|NOCACHE
+Sarah|Sarah Good|A Simple Girl, Simple Life|h3odst_23_nostoneunturned.ogg|NOCACHE
+Sarah|Sarah Good|A Loving Home|brhm_sontefmaj.ogg|NOCACHE
+Sarah|Emotional|Falling in Love|h3odst_25_lightattheend.ogg|NOCACHE
+Sarah|Conflicted|Troubling Thoughts|tc_05_meetattheinn.ogg|NOCACHE
+Sarah|Conflicted|What Do I Do?|ct_03_waitingforistvan.ogg|NOCACHE
+Sarah|Emotional|The First Night|ct_05_firstnight.ogg|NOCACHE
+Sarah|Emotional|Forbidden Fruit|ct_09_withistvan.ogg|NOCACHE
+Sarah|Emotional|The Second Night|ct_14_secondnight.ogg|NOCACHE
+Sarah|Emotional|Goodbye, My Love|ct_17_darvuliasdeath.ogg|NOCACHE
+Sarah|Betrayed|Betrayal (Emotional)|hr_01_ethanmars_01.ogg|NOCACHE
+Sarah|Betrayed|Betrayal (Heart-Wrenching)|hr_03_beforethestorm_02.ogg|NOCACHE
+Sarah|Betrayed|Betrayal (Forgiveness)|hr_09_redemption.ogg|NOCACHE
+Sarah|Abandoned|Soliloquy to the Dead|iwtv_04_madelineslament.ogg|NOCACHE
+Sarah|Abandoned|Love and Loss|ac3_10_farewell.ogg|NOCACHE
+Sarah|Abandoned|Alone in the World|ct_20_lastwords.ogg|NOCACHE
+Sarah|Abandoned|A Desperate Hope, Dashed|kq_04_quasifantasia_03.ogg|NOCACHE
+Sarah|Abandoned|Pleading to God|got2_15_houseoftheundying.ogg|NOCACHE
+

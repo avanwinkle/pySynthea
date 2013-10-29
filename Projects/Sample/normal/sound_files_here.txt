@@ -1,0 +1,7 @@
+# SYNTHEA SOUND FOLDER #
+
+In this folder go the sound files for your project board. By default, this folder is called “normal”.
+
+Sound boards can have multiple copies of sound folders, if the entire board is to be changed. In that case, a folder will exist for each copy of the board. Most users will never need to worry about this.
+
+Most reliable sound file formats are OGG and WAV. 44.1KHz and 16-bit are standard, success with other settings may vary.

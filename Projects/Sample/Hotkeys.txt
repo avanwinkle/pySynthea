@@ -1,0 +1,23 @@
+# Hot-keys file! 
+# This can bind keyboard keys (and modifiers) to functions
+# To play a sound, use function PLAY and the name of the button
+#####################
+#
+# Set some hotkeys for setting fade time
+1|FADE_TIME|0.5
+2|FADE_TIME|1
+3|FADE_TIME|2
+4|FADE_TIME|3
+5|FADE_TIME|4
+6|FADE_TIME|5
+=|STOP_SOUND
+#
+# F is for Fight Club!
+f|PLAY|Fight Club
+# L is for Lair
+l|PLAY|Dancers on a String
+# T is for Tick Tock, sometimes slow sometimes fast
+t|PLAY|Tick Tock (Slow)
+<ctrl>t|PLAY|Tick Tock (Crescendo)
+# V is for Villain - Moral Insanity
+v|PLAY|Moral Insanity
