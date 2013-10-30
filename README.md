@@ -62,4 +62,14 @@ It is still in its infancy, but for those willing and able to learn it, I hope i
 
 For more information visit www.synthea.org
 
+Building
+========
+
+To build SYNTHEA you need:
+* Python 2
+* wxPython
+* PyGame
+* NumPy
+* X11 (OSX only)
+
 (C) 2011-2013 Anthony van Winkle with contributions by Dan Posluns
