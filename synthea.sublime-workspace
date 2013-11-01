@@ -1,0 +1,1108 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"last",
+				"lastY"
+			],
+			[
+				"jump",
+				"jumpForce"
+			],
+			[
+				"SCR",
+				"SCREEN_H"
+			],
+			[
+				"SCREE",
+				"SCREEN_W"
+			],
+			[
+				"tulos",
+				"tulosTauluVarit1"
+			],
+			[
+				"tulo",
+				"tulosTauluVarit"
+			],
+			[
+				"raja",
+				"raja125"
+			],
+			[
+				"color",
+				"colorTable"
+			],
+			[
+				"colo",
+				"colorTable"
+			],
+			[
+				"ceili",
+				"ceilingDampener"
+			],
+			[
+				"door",
+				"doorType"
+			],
+			[
+				"buil",
+				"buildingType"
+			],
+			[
+				"max",
+				"maxLimit"
+			],
+			[
+				"min",
+				"minValue"
+			],
+			[
+				"limi",
+				"limitY"
+			],
+			[
+				"line",
+				"lineTo"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"preV",
+				"prevX"
+			],
+			[
+				"paiva",
+				"paivaysText"
+			],
+			[
+				"laski",
+				"laskijaText"
+			],
+			[
+				"lisa",
+				"lisatiedotText"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"geto",
+				"get_object_vars"
+			],
+			[
+				"trans",
+				"translationFile"
+			],
+			[
+				"trnas",
+				"translationFile"
+			],
+			[
+				"tran",
+				"translations"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"syotto",
+				"syottoryhma"
+			],
+			[
+				"rakennu",
+				"rakennusTiedosto"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"json_",
+				"json_decode"
+			],
+			[
+				"ohe",
+				"ohjelma_901"
+			],
+			[
+				"metr",
+				"materiaaliTiedosto"
+			],
+			[
+				"mate",
+				"materiaalit-fi"
+			],
+			[
+				"rakenn",
+				"rakennustyyppi"
+			],
+			[
+				"stri",
+				"stripslashes"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"tulokse",
+				"tuloksetVaimentamaton"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"treeIm",
+				"treeImg"
+			],
+			[
+				"tre",
+				"treeImages"
+			],
+			[
+				"rand",
+				"randomness"
+			],
+			[
+				"lay",
+				"layers"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"la",
+				"layerCount"
+			],
+			[
+				"sky",
+				"skyGradient"
+			],
+			[
+				"sk",
+				"skyTop"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"kie",
+				"kieli"
+			],
+			[
+				"kieli",
+				"kieliQuery"
+			],
+			[
+				"tra",
+				"Translator"
+			],
+			[
+				"par",
+				"parentElem"
+			],
+			[
+				"las",
+				"lastProperty"
+			],
+			[
+				"p",
+				"parts"
+			],
+			[
+				"lastP",
+				"lastProperty"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"transla",
+				"translation"
+			],
+			[
+				"get",
+				"getText"
+			],
+			[
+				"pa",
+				"parentElem"
+			],
+			[
+				"create",
+				"createImageData"
+			],
+			[
+				"in",
+				"initialState"
+			],
+			[
+				"thrus",
+				"thrustPower"
+			],
+			[
+				"new",
+				"newState"
+			],
+			[
+				"right",
+				"rightBorder (?)"
+			],
+			[
+				"window",
+				"windowWidth (?)"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"windo",
+				"windowWidth"
+			],
+			[
+				"gene",
+				"generateData"
+			],
+			[
+				"raken",
+				"rakennustyyppi"
+			],
+			[
+				"nebul",
+				"nebulae"
+			],
+			[
+				"wi",
+				"windowWidth"
+			],
+			[
+				"sc",
+				"screenY"
+			],
+			[
+				"sce",
+				"screenX"
+			],
+			[
+				"getScr",
+				"getScreenX"
+			],
+			[
+				"win",
+				"windowWidth"
+			],
+			[
+				"widn",
+				"windowWidth"
+			],
+			[
+				"scr",
+				"screenY"
+			],
+			[
+				"pr",
+				"proto	Prototype"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"scre",
+				"screenY"
+			],
+			[
+				"scree",
+				"screenX"
+			],
+			[
+				"img",
+				"imgData"
+			],
+			[
+				"im",
+				"imgData"
+			],
+			[
+				"origi",
+				"originX"
+			],
+			[
+				"ori",
+				"originY"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"siz",
+				"size-1"
+			],
+			[
+				"sei",
+				"size-1"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"star",
+				"stars"
+			],
+			[
+				"creat",
+				"createStarLayers"
+			],
+			[
+				"game",
+				"gameCanvas"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"seina",
+				"seinaLeveys"
+			],
+			[
+				"draw",
+				"drawX"
+			],
+			[
+				"puoli",
+				"puoliTolppa"
+			],
+			[
+				"puli",
+				"puoliTolppa"
+			],
+			[
+				"tolpp",
+				"tolppaLeveys"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"vaaka",
+				"vaakaMittaviivat"
+			],
+			[
+				"mi",
+				"mittaPiste"
+			],
+			[
+				"mitt",
+				"mittaPisteet"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sensor",
+				"sensorObj"
+			],
+			[
+				"upda",
+				"updateTemperatures"
+			],
+			[
+				"alajuo",
+				"alajuoksuHeight"
+			],
+			[
+				"katkovii",
+				"katkoviivaVaaka"
+			],
+			[
+				"yla",
+				"ylajuoksuHeight"
+			],
+			[
+				"ala",
+				"alajuoksuHeight"
+			],
+			[
+				"alajuok",
+				"alajuoksuKoko"
+			],
+			[
+				"str_repa",
+				"str_replace"
+			],
+			[
+				"repla",
+				"str_replace"
+			],
+			[
+				"sein",
+				"seinaWidth"
+			],
+			[
+				"materi",
+				"materiaaliObj"
+			],
+			[
+				"mater",
+				"materiaaliString"
+			],
+			[
+				"liitin",
+				"liitinDist"
+			],
+			[
+				"arr",
+				"arrowArea"
+			],
+			[
+				"tolp",
+				"tolppaX"
+			],
+			[
+				"page",
+				"pageBottom"
+			],
+			[
+				"o901",
+				"o901_tee_pdf"
+			],
+			[
+				"ra",
+				"rakennusTyyppi"
+			],
+			[
+				"AddHea",
+				"AddHeaderBar"
+			],
+			[
+				"obe",
+				"objectCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: List Packages"
+			],
+			[
+				"packga",
+				"Package Control: Remove Package"
+			],
+			[
+				"packg",
+				"Package Control: List Packages"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"in",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"print(\"hello world\");"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/ohjelma_901_input.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_painikkeet.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_tee_pdf.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/game-off-2013/js/util.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/game-off-2013/js/level.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/game-off-2013/js/game.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/game-off-2013/js/player.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/game-off-2013/index.html",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/Translator.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/DOFPDF.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/game-off-2013/README.md",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/locales/en/translation.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/locales/fi/translation.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_107/ohjelma_107_painikkeet.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/locales/fi/materials.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/locales/en/materials.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_tyyli.css",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/Translator.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/locales/en/building-types.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/locales/fi/building-types.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/locales/fi/guide.png",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/ohjekuva.png",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/materiaalit.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_form.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_form.txt",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_form.php.inc",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_413/ohjelma_413/o413_tyyli.css",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_413/ohjelma_413_input.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_413/ohjelma_413/o413_painikkeet.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/Halloween/index.html",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/Halloween/Halloween.sublime-project",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/translation.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/mersenne-twister.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/simplex-noise.min.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/physics.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/derivative.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/server/node_modules/ws/doc/ws.md",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/server/app.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/star.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/stararea.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/starhandler.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/camera.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/ds.js",
+		"/C/Users/Jaakko/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/util.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/vector.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/.gitignore",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/bigstar.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/nebula.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/index.html",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/ship.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/.tern-port",
+		"/C/Users/Jaakko/AppData/Roaming/Sublime Text 3/Packages/tern_for_sublime/Preferences.sublime_settings",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/nebulaFactory.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/testWorker.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/SpaceExplorer.sublime-project",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/rakennustyypit.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/rakennustyypit-backup.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/rakennustyypit.csv",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/katto-materiaalit.csv",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/materiaalit-fi.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/materiaalit-fi.csv",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/game.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/SpaceExplorer/js/nebulaWorker.js",
+		"/C/Users/Jaakko/Desktop/ds.js",
+		"/C/Users/Jaakko/Desktop/spacegame.html",
+		"/C/Users/Jaakko/Desktop/simplex-noise.min.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempViewer/index.html",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempServer/config.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempViewer/js/app.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_412/ohjelma_412_input.php",
+		"/F/Program Files/xampp/apache/conf/alias/moodlight.conf",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_412/ohjelma_412/o412_painikkeet.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_412/ohjelma_412/o412_koot.json",
+		"/C/Users/Jaakko/AppData/Local/Temp/fz3temp-1/ohjelma_412_input.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_412/ohjelma_412/ohjelma_412_input.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempViewer/css/main.css",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempLogger/MySql/config.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempLogger/MySql/TempLogger.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempViewer/js/vendor/d3.min.js",
+		"/C/Users/Jaakko/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempViewer/ftpsync.settings",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_412/ohjelma_412/o412_oletusarvot.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempServer/TempServer.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempViewer/js/vendor/jquery.min.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempViewer/css/normalize.css",
+		"/G/Videot/Sarjat/How I Met Your Mother/Season 9/subs/How.I.Met.Your.Mother.S09E01.HDTV.x264-LOL.sub",
+		"/G/Videot/Sarjat/How I Met Your Mother/Season 9/subs/How.I.Met.Your.Mother.S09E02.HDTV.x264-LOL.srt",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_107/ohjelma_107_input.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901_input.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_700/todo.txt",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_laskut.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/canvas_apufunktiot.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_412/ohjelma_412/o412_levytietokanta.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/PiMoodLight/server.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempLogger/FTP/TempLoggerFTP.js",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/TempLogger/FTP/config.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_107/tee_o107_pdf.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/CBKK/www/index.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/CBKK/www/inc/database.php",
+		"/C/Users/Jaakko/AppData/Local/Temp/fz3temp-1/kirjauduttu.php",
+		"/C/Users/Jaakko/AppData/Local/Temp/fz3temp-1/kirjaudu.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_oletusarvot.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ohjelma_901/o901_aputaulukot.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/materiaalit.csv",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/materiaalit.json",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/materiaalit_putsattu.csv",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/threejs-test/index.html",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ftpsync.settings",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/Gyptone Akustiikkalaskuri v.2013 (1).xls",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_901/ignore/.~lock.Gyptone Akustiikkalaskuri v.2013 (1).xls#",
+		"/C/Users/Jaakko/AppData/Roaming/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/C/Users/Jaakko/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/Jaakko/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/Default (Windows).sublime-keymap",
+		"/C/Users/Jaakko/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/Jaakko/AppData/Local/Temp/fz3temp-1/courieri.php",
+		"/C/Users/Jaakko/AppData/Local/Temp/fz3temp-1/index_ajankohtaista.json",
+		"/C/Users/Jaakko/AppData/Local/Temp/fz3temp-1/index_valmistajat.json",
+		"/F/Program Files/irssi/startup",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_107/o107_oletusarvot.php",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_107/o107_taulukot.php",
+		"/F/Program Files/irssi/README.txt",
+		"/C/Users/Jaakko/.irssi/config",
+		"/F/Program Files/irssi/etc/irssi.conf",
+		"/G/Tiedostot/Jaakon tiedostot/Mese logit/logi.xml",
+		"/G/Tiedostot/Jaakon tiedostot/Mese logit/katri.t644651589.xml",
+		"/F/Program Files/startup",
+		"/G/Tiedostot/Jaakon tiedostot/Projektit/DOFTech/ohjelma_107/sisalampotila_laskut.js"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"raja125",
+			"jump",
+			"||",
+			"x",
+			"height",
+			"kieli",
+			"limit",
+			"{\n",
+			"rakennustyypit",
+			"'",
+			"numerokentta",
+			"li",
+			"}\n",
+			"height",
+			"width",
+			" data-i18n=\"(.+?)\">",
+			" data-i18n=\".+?\"",
+			"this.mt",
+			"this",
+			"this.mt",
+			"console.log",
+			"timestep",
+			"Vector(0, 0)",
+			"a",
+			"generate",
+			"nearPlane",
+			"farPlane",
+			"this.size",
+			"tulosDist",
+			"Ã¶",
+			"Ã¤",
+			"(\":)|(\",)",
+			"\\},",
+			"\\s{2,}",
+			"([0-9]+),([0-9]+)",
+			".+,,",
+			"(\":)|(\",)",
+			"\":",
+			"\\},",
+			"\\s{2,}",
+			"([0-9]+),([0-9])",
+			"Ã¶",
+			"Ã¤",
+			"Ã¶",
+			"Ã¤",
+			",\"",
+			"\":",
+			"\\},",
+			"\\s{2,}",
+			",\"",
+			"\":",
+			"\\},",
+			"\\s{2,}",
+			",\"",
+			"\":",
+			"\\},",
+			"\\s{2,}",
+			",\"",
+			"\":",
+			"\\},",
+			"\\s{2,}",
+			"\\s+",
+			"Source",
+			"([0-9]+),([0-9]+)",
+			"data",
+			"d",
+			"BackgroundObject",
+			"windowHeight",
+			"Star",
+			"Math.random()",
+			"true",
+			"0E07Hfm8ki",
+			"levySijainti1",
+			"1",
+			"jako1",
+			"liitinjako",
+			"tolppaHeight",
+			"Yläjuoksun",
+			"Runkotolpan koko",
+			"jako1",
+			"korkeus1",
+			"leveys1",
+			"1",
+			"leveys1",
+			"leveys",
+			"seinaLeveys",
+			"leveys",
+			"liitinDist1",
+			"piirraKuva",
+			"liitinDist1",
+			"seinaTyyppi",
+			"Seinän tyyppi",
+			"tmpX",
+			"suhde",
+			"leveys",
+			"Levyn",
+			"bottom",
+			"w",
+			"y",
+			"x",
+			"pdf",
+			"LineFeed",
+			"Ln",
+			"private",
+			"barHeight",
+			"pdf",
+			"setColor",
+			"addpage",
+			"\\s+\\{",
+			"{",
+			"Katon",
+			"ikkunamat",
+			"Ikkunoiden tyyppi",
+			"Lattian perusmateriaali",
+			"Math.random() * 10",
+			"h3",
+			"material",
+			":|\",|[0-9]+,",
+			"\\},",
+			"\\s{2,}",
+			":|\",|[0-9]+,",
+			"\\},",
+			"\\s{2,}",
+			":|\",|[0-9]+,",
+			"\\},",
+			"\\s{2,}",
+			"[0-9]+,",
+			"(:|\",)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\\\'",
+			"\\'",
+			">[[$1]]",
+			"",
+			"ö",
+			"ä",
+			"$1.$2",
+			"ö",
+			"ä",
+			"ö",
+			"ä",
+			"source",
+			"$1.$2",
+			" {",
+			"(Math.random() * 10).toFixed(2)",
+			"materiaali",
+			"$1.$2",
+			"",
+			" ",
+			",",
+			"source",
+			"nrc",
+			"unit",
+			"hz$1",
+			"$1.$2",
+			"alpha",
+			"",
+			" ",
+			"",
+			"1.00",
+			"0.$1",
+			"alpha",
+			"",
+			" ",
+			"",
+			"var $1",
+			"$1, 10",
+			"\":",
+			"vaimennus$1",
+			"ovi$1",
+			"ikkuna$1",
+			"perusmat$1",
+			"info1",
+			"4",
+			"3",
+			"2",
+			"\\\\\"",
+			"\\\"",
+			"",
+			"'",
+			"",
+			"th",
+			"td",
+			"",
+			"muotoileArvo($1)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "f90b8238",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "synthea.sublime-project",
+	"replace":
+	{
+		"height": 106.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
