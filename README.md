@@ -72,4 +72,7 @@ To build SYNTHEA you need:
 * NumPy
 * X11 (OSX only)
 
+**Note for 64bit Windows users:**
+You need to install 32bit Python since PyGame doesn't work with the 64bit version
+
 (C) 2011-2013 Anthony van Winkle with contributions by Dan Posluns
