@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 
 *.pyc
+=======
+*.pyc
+*.sublime-project
+*.sublime-workspace
+*.DS_store
+>>>>>>> b5737293f1360f6e62b93120999c755808158cae
