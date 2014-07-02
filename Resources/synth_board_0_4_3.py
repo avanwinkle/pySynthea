@@ -59,6 +59,8 @@ import pygame
 import random
 # Import numpy for creating the sound of silence (Posluns)
 import numpy
+# Import subprocess and re so we can query the system volume level
+import subprocess, re
 
 BUFFERLOOP = False
 DEFAULT_DEFER = 500
@@ -99,6 +101,7 @@ class MyFrame(wx.Frame):
         self.musicpaused = False
         # Some inital values come from the config file
         self.modes = master.config["modes"]
+
         
         # A time-remaining timer
         self.timecounter = wx.Timer(self)
@@ -189,7 +192,7 @@ class MyFrame(wx.Frame):
             global_hotkeys.append( (0, wx.WXK_F12, "self.playDj()") )
             self.djplay = []
             self.djtimer = wx.Timer(self)
-            self.djtimer = wx.Timer(self)
+            #self.djtimer = wx.Timer(self)
             self.Bind(wx.EVT_TIMER, self.playDj, self.djtimer)
 
             
@@ -257,8 +260,24 @@ class MyFrame(wx.Frame):
             
             self.SetMenuBar(MenuBar)
             self.Bind(wx.EVT_CLOSE, self.OnCloseWindow)
-           
-
+            
+            # Fetch the volume level if we want to check it, only for OSX right now
+            if master.config.has_key("volume"):
+                self.sysVol = False
+                sysvol = subprocess.check_output('osascript -e "get volume settings"',shell=True).strip()
+                # Split it up and find what we want ("output volume:13, input volume:100, alert volume:100, output muted:false")
+                for volume in map(lambda x: x.groups(),re.finditer("([^:]*):([^,]*),? ?",sysvol)):
+                    if volume[0] == "output volume":
+                        self.sysVol = volume[1]
+                    # No else, so this will overwrite in case the order is unexpected
+                    if volume[0] == "output muted" and volume[1] == "true":
+                        self.sysVol = "MUTED"
+                # See where we are, and raise a dialogue warning
+                if self.sysVol == "MUTED" or int(self.sysVol) != int(master.config["volume"]):
+                    if VolumeWarning(self, (self.sysVol, master.config["volume"])):
+                        # If the warning box returns true, change the system volume to the target
+                        subprocess.check_output('osascript -e "set volume output volume %s"' % master.config["volume"], shell=True)
+             
         # Calculate and render the layout
         self.SetAutoLayout(True)
         self.SetSizer(masterbox)
@@ -975,7 +994,10 @@ class FX_Button(wx.ToggleButton):
             # MUSIC MODE: Only one track at a time, fade the existing track out first!
             elif master.config["type"] == "music":
                 if pygame.mixer.get_busy():
-                    pygame.mixer.fadeout(master.fadetime[0])                
+                    pygame.mixer.fadeout(master.fadetime[0])     
+                # If we're already musicing, fade out
+                if pygame.mixer.music.get_busy():
+                    pygame.mixer.music.fadeout(master.fadetime[0])
             # SFX MODE: If this is already playing, fade it (and only it) out!
             elif master.config["type"] == "sfx" and self.channel:
                 if self.channel.get_busy():
@@ -1129,12 +1151,27 @@ class QuickReference(wx.MessageDialog):
     def __init__(self,parent):
     
         # Build a Dialog object based on the contents of the quickreference file
-        wx.MessageDialog.__init__(self, parent, master.config["quickreference"], "Quick Reference",wx.CANCEL)
+        wx.MessageDialog.__init__(self, parent, master.config["quickreference"], "Quick Reference",wx.OK)
         # Show it!
         self.ShowModal()
         # Destroy it!
         self.Destroy()
-  
+
+# --------------------------------------------------------
+# A dialogue for system volume
+# --------------------------------------------------------
+def VolumeWarning(parent, volumes):
+
+    # What do we say?
+    message = "The system volume level (%s) does not match this board's target volume (%s).\r\n\r\nWould you like to change the system volume to match the board settings?" % volumes
+    # Build a Dialog object based
+    warning = wx.MessageDialog(parent, message, "Volume Level Alert",wx.YES_NO|wx.YES_DEFAULT|wx.ICON_EXCLAMATION)
+    # Show it!
+    answer = warning.ShowModal() == wx.ID_YES
+    # Destroy it!
+    warning.Destroy()  
+    # Return the answer
+    return answer
 
 # **************************************** #
 # The MAIN FUNCTION                        #

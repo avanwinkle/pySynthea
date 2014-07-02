@@ -162,11 +162,8 @@ def loadHotkeys(docroot="",file="Hotkeys.txt",functions=None):
 def loadConfig(docroot="",file="Config.txt"):
     config = {}
     f = open(docroot+file)
-    for line in f.readlines():
-        if line[0] != "#" and len(line) >1:
-            sliced = line.strip().split(":")
-            if len(sliced) > 1:
-                config[sliced[0]] = sliced[1]
+    for setting in [match.groups() for match in [re.match("([^#][^:]*) ?: ?(.*?)[\r|\n]?$",line) for line in f.readlines()] if match]:
+            config[setting[0]] = setting[1]
     f.close()
     
     if config.has_key("modes"):
