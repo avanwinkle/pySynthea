@@ -215,6 +215,7 @@ class MyFrame(wx.Frame):
         
         # Set up generic hotkey event processing
         def passKeyCode(event):
+            print "keycode",event.GetId()
             type = event.GetId()
             # Cannot call exec inside a nested function, so jump outside to call it
             self.parseEvent(type)
@@ -236,6 +237,7 @@ class MyFrame(wx.Frame):
             hotkeyID = key | (wxModifier << 16)
             # Set the hotkey 
             self.global_events[hotkeyID] = fn % params
+            print "adding hotkey",hotkeyID,hotkey
             shortcut_table.append( (wxModifier, key, hotkeyID) )
         
         # Create an accelerator table from the list of tuples we just made

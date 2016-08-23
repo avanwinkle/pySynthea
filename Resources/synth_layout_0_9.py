@@ -17,7 +17,7 @@ import re
 defaultCrossfade = [1,1]
 defaultFadetime = [1000,1000]
 
-reHotkey = re.compile(r"((?:<ctrl>|<alt>|<cmd>|<shift>)*)([A-Za-z0-9\-\=\[\]\\\;\'\,\.\/\`])")
+reHotkey = re.compile(r"((?:<ctrl>|<alt>|<cmd>|<shift>)*)([A-Za-z0-9\-\_\=\[\]\\\;\'\,\.\/\`])")
 reHotkeyModifier = re.compile(r"(<ctrl>|<alt>|<cmd>|<shift>)")
 
 # This function loads layout specs from a file
@@ -96,6 +96,8 @@ def loadLayout(docroot="",file="Layout.txt"):
                     buttonBuff = 1
                 elif l4val == "NOCACHE":
                     buttonBuff = 2
+                elif l4val == "OVERRIDE":
+                    buttonBuff = 3					
         # Store each of the button's attributes
         buttoncode = (buttonName,buttonSrc,buttonLoop,loopFile,buttonBuff)
         # If the button name is not already in the frame, add it!
